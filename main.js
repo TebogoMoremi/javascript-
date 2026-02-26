@@ -1,4 +1,4 @@
-// main.js
+
 import { increment, reset, getCount } from "./counter.js";
 import { saveCount } from "./storage.js";
 import { STRINGS } from "./constants.js"
